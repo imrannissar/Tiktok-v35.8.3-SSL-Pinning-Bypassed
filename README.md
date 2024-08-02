@@ -1,1 +1,1 @@
-Find the latest version of TikTok SSL pinning bypassed.
+Find the latest patched version of TikTok.
